@@ -1,0 +1,33 @@
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.exe
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.deps.json
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.runtimeconfig.json
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.runtimeconfig.dev.json
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.dll
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.pdb
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.AssemblyReference.cache
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.Form1.resources
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.GenerateResource.cache
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.GeneratedMSBuildEditorConfig.editorconfig
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.AssemblyInfoInputs.cache
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.AssemblyInfo.cs
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.CoreCompileInputs.cache
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.dll
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.pdb
+A:\01MAYEZ FROM HARDRIVE FEB2021\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.genruntimeconfig.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.exe
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.deps.json
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.runtimeconfig.json
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.runtimeconfig.dev.json
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.dll
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\bin\Debug\netcoreapp3.1\Buttonclickerfunny1.pdb
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.AssemblyReference.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.GenerateResource.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.AssemblyInfoInputs.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.AssemblyInfo.cs
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.csproj.CoreCompileInputs.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.dll
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.pdb
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.genruntimeconfig.cache
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.Properties.Resources.resources
+A:\Refraction 0.3.0\.NET visual studio projects\Buttonclickerfunny1\obj\Debug\netcoreapp3.1\Buttonclickerfunny1.ButtonClicker.resources
